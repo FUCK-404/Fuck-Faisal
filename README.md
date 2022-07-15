@@ -11,4 +11,4 @@ ls
 
 cd Fuck-Faisal
 
-python 
+python faisy.py
